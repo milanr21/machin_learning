@@ -1,0 +1,30 @@
+# Product Recommender System with Natural Language Processing (NLP)
+
+# Description:
+
+Built a machine learning-based product recommender using TF-IDF and cosine similarity to suggest similar Amazon products based on user queries. Integrated NLTK for text preprocessing and Streamlit for creating an interactive web interface, delivering real-time recommendations.
+# Tools and Technologies Used:
+
+Python
+Programming language for implementing machine learning and data processing logic.
+
+Pandas
+For data manipulation and handling CSV files.
+
+NumPy
+Used for numerical operations and handling arrays.
+
+NLTK (Natural Language Toolkit)
+For text tokenization, stemming, and processing natural language data.
+
+Scikit-learn
+For implementing machine learning algorithms, specifically TF-IDF vectorization and cosine similarity.
+
+Streamlit
+For building the interactive web application and user interface for the recommender system.
+
+PIL (Python Imaging Library)
+For displaying images within the web app.
+
+CSV Files
+Amazon product data used for training the recommendation model.
