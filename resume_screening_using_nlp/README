@@ -1,0 +1,15 @@
+# Resume Classification and Categorization System
+
+# Description: 
+Developed an automated resume categorization system that uses machine learning (k-Nearest Neighbors classifier) to classify resumes into predefined categories like Data Science, HR, Web Designing, and more. The system leverages TF-IDF vectorization for feature extraction and utilizes scikit-learn for model training. The process involves data cleaning, text preprocessing, and prediction through a trained classifier.
+
+# Tools & Technologies Used:
+
+    Python
+    scikit-learn
+    Pandas & NumPy
+    TF-IDF Vectorization
+    k-Nearest Neighbors (KNN)
+    Streamlit (for web interface)
+    pickle (for saving and loading models)
+    Matplotlib & Seaborn (for data visualization)
