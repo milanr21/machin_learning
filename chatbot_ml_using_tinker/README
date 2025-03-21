@@ -1,0 +1,22 @@
+# Intelligent Chatbot Using OpenAI GPT-3
+
+# Description:
+Developed an intelligent chatbot application using OpenAI's GPT-3 API to generate dynamic responses based on user input. Built the user interface using Tkinter, with features like input fields, buttons, and a scrollable chat window. The chatbot can interact with users, provide responses, and clear the chat history upon request. Integrated dotenv to securely manage the OpenAI API key.
+
+# Tools and Technologies Used:
+
+Python
+Used for implementing the chatbot logic and user interface.
+
+Tkinter
+For creating the graphical user interface (GUI) and widgets such as buttons, text areas, and labels.
+
+OpenAI API
+For integrating GPT-3 model to generate intelligent responses based on user input.
+
+dotenv
+For managing and loading environment variables, including the API key securely.
+
+os
+Used for accessing environment variables (API key).
+
